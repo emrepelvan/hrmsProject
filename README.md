@@ -4,4 +4,4 @@
 
 
 #### Database Diagram
-<p align="center"><img src="hrms_database_diagrams.png"></p>
+<p align="center"><img src="hrms/hrms_database_diagrams.png"></p>
